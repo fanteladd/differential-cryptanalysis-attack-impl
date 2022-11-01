@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from bitstring import BitArray
 
 def intToBin(a):
